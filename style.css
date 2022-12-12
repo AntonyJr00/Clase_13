@@ -1,0 +1,13 @@
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1,
+p {
+  color: cornflowerblue;
+}
+input {
+  background-color: antiquewhite;
+}
